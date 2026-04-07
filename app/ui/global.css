@@ -16,3 +16,12 @@ input[type='number']::-webkit-outer-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: #ec097b;
+}
